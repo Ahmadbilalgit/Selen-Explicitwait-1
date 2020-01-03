@@ -1,0 +1,11 @@
+D:\Automation\Selenium\Round-2\Explicit Wait Sol-1\bin\Debug\netcoreapp2.1\Explicit Wait Sol-1.deps.json
+D:\Automation\Selenium\Round-2\Explicit Wait Sol-1\bin\Debug\netcoreapp2.1\Explicit Wait Sol-1.runtimeconfig.json
+D:\Automation\Selenium\Round-2\Explicit Wait Sol-1\bin\Debug\netcoreapp2.1\Explicit Wait Sol-1.runtimeconfig.dev.json
+D:\Automation\Selenium\Round-2\Explicit Wait Sol-1\bin\Debug\netcoreapp2.1\Explicit Wait Sol-1.dll
+D:\Automation\Selenium\Round-2\Explicit Wait Sol-1\obj\Debug\netcoreapp2.1\Explicit Wait Sol-1.csprojAssemblyReference.cache
+D:\Automation\Selenium\Round-2\Explicit Wait Sol-1\obj\Debug\netcoreapp2.1\Explicit Wait Sol-1.csproj.CoreCompileInputs.cache
+D:\Automation\Selenium\Round-2\Explicit Wait Sol-1\obj\Debug\netcoreapp2.1\Explicit Wait Sol-1.AssemblyInfoInputs.cache
+D:\Automation\Selenium\Round-2\Explicit Wait Sol-1\obj\Debug\netcoreapp2.1\Explicit Wait Sol-1.AssemblyInfo.cs
+D:\Automation\Selenium\Round-2\Explicit Wait Sol-1\bin\Debug\netcoreapp2.1\Explicit Wait Sol-1.pdb
+D:\Automation\Selenium\Round-2\Explicit Wait Sol-1\obj\Debug\netcoreapp2.1\Explicit Wait Sol-1.dll
+D:\Automation\Selenium\Round-2\Explicit Wait Sol-1\obj\Debug\netcoreapp2.1\Explicit Wait Sol-1.pdb
