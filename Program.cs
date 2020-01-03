@@ -18,7 +18,6 @@ namespace No_Such_Element_Exception_Handle
             }
             return driver.FindElement(by);
         }
-
     }
     class Entrypoint
     {
